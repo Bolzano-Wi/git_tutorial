@@ -1,2 +1,2 @@
 test
-git commit --amend
+git commit --amenda
